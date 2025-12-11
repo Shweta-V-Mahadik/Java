@@ -17,6 +17,8 @@ public class arithmetic {
         System.out.println("Subtraction = " + (a - b));
         System.out.println("Multiplication = " + (a * b));
         System.out.println("Division = " + (a / b));
+
+        sc.close();
         
 	}
 }
