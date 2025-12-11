@@ -1,4 +1,3 @@
-package com.sunbeam;
 
 public class hello {
 
