@@ -23,7 +23,7 @@ public class MainMenu {
 			
 			case 1 :
 				System.out.println("You have selected admin login case");
-				AdminMenu.adminMenuOptions(sc);
+				AdminMenu.adminMenu(sc);
 			break;
 				
 			case 2:
